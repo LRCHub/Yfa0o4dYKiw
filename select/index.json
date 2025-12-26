@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "仮契約のシンデレラ (long ver.)",
+  "base_artist": "私立恵比寿中学",
+  "createdAt": "2025-12-26T16:08:04.402764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "仮契約のシンデレラ",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": false,
+      "path": "select/01_仮契約のシンデレラ_Shiritsu_Ebisu_Chugaku.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "仮契約のシンデレラ",
+      "artist": "私立恵比寿中学",
+      "has_synced": true,
+      "path": "select/02_仮契約のシンデレラ_私立恵比寿中学.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "仮契約のシンデレラ - Karikeiyaku No Cinderella",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": true,
+      "path": "select/03_仮契約のシンデレラ_-_Karikeiyaku_No_Cinderella_Shiritsu_Ebisu_Chugaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "仮契約のシンデレラ",
+      "artist": "私立恵比寿中学",
+      "has_synced": false,
+      "path": "select/pl_01_仮契約のシンデレラ_私立恵比寿中学.txt"
+    }
+  ]
+}
